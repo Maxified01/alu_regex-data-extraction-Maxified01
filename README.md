@@ -1,4 +1,4 @@
-# Alu_regex-data-extraction
+# Alu_regex-data-extraction.
 
 This project implements regular expressions to extract specific data types from text. The selected data types are emails, URLs, phone numbers, credit card numbers, and times (24-hour and 12-hour formats)
 
