@@ -33,4 +33,4 @@ class TestDataExtractor(unittest.TestCase):
         self.assertCountEqual(self.result["times"], expected)
 
 if __name__ == "__main__":
-    unittest.main()
+    unittest.main().
